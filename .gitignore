@@ -1,0 +1,89 @@
+# --- IDEs and Editors ---
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+
+# --- Operating System Files ---
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]ownloads/
+$RECYCLE.BIN/
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.trash/
+
+# --- Programming Languages & Runtimes ---
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.scrapy/
+.pytest_cache/
+
+# Java / Maven / Gradle
+target/
+.gradle/
+build/
+*.class
+
+# Compiled outputs (C/C++, Go, Rust)
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+bin/
+out/
+debug/
+target/
+
+# --- Environment Variables & Secrets ---
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+*.key
+*.secret
+
+# --- Logs and Databases ---
+*.log
+*.sqlite
+*.db
+
+# --- Diagnostics ---
+.crash_counter
