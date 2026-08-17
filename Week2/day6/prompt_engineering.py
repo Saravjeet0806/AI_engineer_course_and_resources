@@ -11,7 +11,7 @@ if not my_api_key:
 
 client = Groq(api_key=my_api_key)
 
-model="llama-3.3-70b-versatile"
+model="qwen/qwen3.6-27b"
 role="user"
 
 def llm_ans(prompt):
