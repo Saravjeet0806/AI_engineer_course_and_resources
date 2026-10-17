@@ -1,0 +1,1 @@
+A curated collection of code, projects and resources for becoming an AI Engineer. This repository is intended to support hands-on learning, strengthen programming skills, and build practical knowledge of AI and machine learning.
